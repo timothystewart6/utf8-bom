@@ -1,3 +1,4 @@
+var gulp = require('gulp');
 var bom = require('gulp-bom');
 var convertEncoding = require('gulp-convert-encoding');
 
